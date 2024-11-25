@@ -1,6 +1,6 @@
 Student Management Application:
 
-This project is a Java-based Student Management Application that connects to a MySQL database to perform CRUD (Create, Read, Update, Delete) operations on student records. Below is a detailed explanation of the code and its functionality.
+This project is a Java-based Student Management Application that connects to a MySQL database to perform CRUD (Create, Read, Update, Delete) operations using Prepared Statement on student records. Below is a detailed explanation of the code and its functionality.
 
 Code Explanation:
 
